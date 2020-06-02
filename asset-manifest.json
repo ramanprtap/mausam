@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mausam/static/css/main.bd0928c1.chunk.css",
+    "main.js": "/mausam/static/js/main.782da40b.chunk.js",
+    "main.js.map": "/mausam/static/js/main.782da40b.chunk.js.map",
+    "runtime-main.js": "/mausam/static/js/runtime-main.b6df74ef.js",
+    "runtime-main.js.map": "/mausam/static/js/runtime-main.b6df74ef.js.map",
+    "static/js/2.435c8980.chunk.js": "/mausam/static/js/2.435c8980.chunk.js",
+    "static/js/2.435c8980.chunk.js.map": "/mausam/static/js/2.435c8980.chunk.js.map",
+    "index.html": "/mausam/index.html",
+    "precache-manifest.8c63f22812a1323315be00d1b600ec48.js": "/mausam/precache-manifest.8c63f22812a1323315be00d1b600ec48.js",
+    "service-worker.js": "/mausam/service-worker.js",
+    "static/css/main.bd0928c1.chunk.css.map": "/mausam/static/css/main.bd0928c1.chunk.css.map",
+    "static/js/2.435c8980.chunk.js.LICENSE.txt": "/mausam/static/js/2.435c8980.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/mausam/static/media/warm-bg.635ed87d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6df74ef.js",
+    "static/js/2.435c8980.chunk.js",
+    "static/css/main.bd0928c1.chunk.css",
+    "static/js/main.782da40b.chunk.js"
+  ]
+}
